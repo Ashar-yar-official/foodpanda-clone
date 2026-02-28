@@ -1,0 +1,205 @@
+.header-div1 {
+    background-color: rgba(177, 6, 86, 0.784);
+    padding: 15px;
+    margin: -8px;
+}
+.btn-div1:hover{
+    padding: 25px;
+    cursor: pointer;
+    background-color: white;
+    color:rgba(177, 6, 86, 0.784) ;
+}
+.header-div1 img{
+   width: 50px;
+   padding: 40px;
+   margin-left: 250px;
+   margin-bottom: -60px;
+   margin-top: -20px;
+}
+.btn-div1 {
+    padding: 20px;
+    border-radius: 7px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgba(203, 23, 107, 0.784) ;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+
+}
+i{
+    font-size: 30px;
+}
+
+.logo-1 {
+    width: 40px;
+    border-radius: 8px;
+    margin-left: 600px;
+}
+.logo-table {
+    margin: -65px;
+}
+.logo-name {
+    color:  rgba(203, 23, 107, 0.784) ;
+    font-size: xx-large;
+}
+
+.btn-login {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-color: black;
+    border-radius: 6px;
+    margin-left: 480px;
+}
+.btn-signup {
+    background-color: rgba(203, 23, 107, 0.784);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    border-color: rgb(255, 255, 255);
+    margin-left: 40px;
+
+}
+.btn-login:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.btn-signup:hover{
+    cursor: pointer;
+     background-color: white;
+    color:rgba(177, 6, 86, 0.784) ;
+    border-color:rgba(177, 6, 86, 0.784) ;
+    padding: 15px;
+}
+.header-announcement{
+    background-color: aliceblue;
+}
+.header-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    margin-left: 40px;
+}
+.pic-2 {
+    width: 80%;
+    margin-left: 80px;
+}
+.body-main{
+    background-color: rgb(255, 255, 255);
+    margin-top: 25px;
+    margin-left: 75px;
+}
+.link-home{
+   color: black;
+}
+.qr-code{
+    width: 1325px;
+    height: 250px;
+    background-color: rgb(252, 193, 203);
+    border-radius: 6px;
+    margin-top: 25px;
+    align-content: center;
+}
+
+.qr-table{
+    margin-left: 115px;
+}
+.qr-scanner{
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 20px;
+    border-radius: 6px;
+    margin-right: 20px;
+    
+}
+.qr-scanner:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.qr-text-1{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.qr-text-2{
+    font-size: 32px;
+    color:rgba(199, 35, 112, 0.904) ;
+    margin-top: -15px;
+}
+.qr-text-3{
+    font-size: 20px;
+    margin-top: -15px;
+    margin-right: 30px;
+}
+.qr-btn{
+    padding: 6px;
+    border-radius: 8px;
+    margin-left: 15px;
+    font-size: 20px;
+    align-items: center;
+}
+.qr-btn:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.qr-btn img{
+    width: 30px;
+    height: 25px;
+}
+.all-resturants{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.food{
+    width: 350px;
+    height: 360px;
+    padding: 35px;
+
+}
+.food-img{
+    height: 270px;
+    width: 360px;
+    border-radius: 10px;
+}
+.food-img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.food h5{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.food p{
+    font-size: 15px;
+    color: rgb(120, 117, 117);
+    margin-top: -20px;
+}
+.img-in-btn{
+    width: 15px;
+}
+.food button{
+    background-color: pink;
+    color:rgb(164, 39, 81);
+    border: 0px;
+    border-radius: 15px;
+    margin-top: -12px;
+    font-size: 12px;
+    align-content: center;
+}
+.footer-items{
+    background-color: aliceblue;
+}
+.footer-items table{
+    margin-left: 30%;
+}
+.get-it{
+    width: 120px;
+}
+.footer-items p{
+    color: gray;
+    margin: 15px;
+}
+.copyright{
+    margin-left: 120px;
+    color: gray;
+}
